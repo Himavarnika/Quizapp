@@ -30,3 +30,9 @@ No installations or dependencies are required.
 
 ## About Me
 Hi! I’m currently in my 3nd year of B.Tech and exploring front-end development. This is one of my mini-projects as I learn JavaScript.
+## 🚀 Live Demo
+
+Check out the live version of the Quiz App here:  
+🔗 [Quiz App on Netlify](https://astounding-truffle-6f35be.netlify.app)
+
+> Note: The GitHub Pages deployment may raise a false security warning. Use the Netlify link above for a safe and smooth experience.
